@@ -338,11 +338,3 @@ summary.txt
 - **python-dotenv** — environment variable management
 
 ---
-
-## Author
-
-**Marwa Omar**
-
-AI/ML Engineer
-
-This project was developed as part of an exploration of **LLM applications, tool calling, and agentic AI workflows**.
